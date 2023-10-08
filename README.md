@@ -1,4 +1,4 @@
-![Maratontabellen-tifo](img\maratontabellen_tifo.jpg)
+![Maratontabellen-tifo](img/maratontabellen_tifo.jpg)
 
 *Tifo från matchen mellan IFK Göteborg och Malmö FF våren 2023*
 
